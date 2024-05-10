@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/COMS3102FinalProject/static/css/main.aad82d5a.css",
+    "main.js": "/COMS3102FinalProject/static/js/main.0dd124ef.js",
+    "static/js/453.8ab44547.chunk.js": "/COMS3102FinalProject/static/js/453.8ab44547.chunk.js",
+    "index.html": "/COMS3102FinalProject/index.html",
+    "main.aad82d5a.css.map": "/COMS3102FinalProject/static/css/main.aad82d5a.css.map",
+    "main.0dd124ef.js.map": "/COMS3102FinalProject/static/js/main.0dd124ef.js.map",
+    "453.8ab44547.chunk.js.map": "/COMS3102FinalProject/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad82d5a.css",
+    "static/js/main.0dd124ef.js"
+  ]
+}
